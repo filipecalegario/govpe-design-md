@@ -1,0 +1,138 @@
+{
+  "theme": {
+    "extend": {
+      "colors": {
+        "primary": "#0034b7",
+        "primary-strong": "#001a7a",
+        "primary-surface": "#e6f3ff",
+        "secondary": "#494c57",
+        "neutral": "#f8fafc",
+        "neutral-soft": "#e7e9eb",
+        "neutral-medium": "#ced2d7",
+        "surface": "#ffffff",
+        "on-surface": "#28272c",
+        "danger": "#ac1010",
+        "danger-strong": "#841d1d",
+        "danger-surface": "#ffe4e4",
+        "success": "#2b6418",
+        "success-strong": "#12400d",
+        "success-surface": "#eafbd7",
+        "warning": "#ffb60c",
+        "warning-strong": "#b77706",
+        "warning-surface": "#fff6ce"
+      },
+      "fontFamily": {
+        "display": [
+          "Inter"
+        ],
+        "h1": [
+          "Inter"
+        ],
+        "h2": [
+          "Inter"
+        ],
+        "h3": [
+          "Inter"
+        ],
+        "h4": [
+          "Inter"
+        ],
+        "body-lg": [
+          "Inter"
+        ],
+        "body-md": [
+          "Inter"
+        ],
+        "body-sm": [
+          "Inter"
+        ],
+        "label": [
+          "Inter"
+        ],
+        "caption": [
+          "Inter"
+        ]
+      },
+      "fontSize": {
+        "display": [
+          "4rem",
+          {
+            "fontWeight": "700"
+          }
+        ],
+        "h1": [
+          "2.5rem",
+          {
+            "fontWeight": "700"
+          }
+        ],
+        "h2": [
+          "2rem",
+          {
+            "fontWeight": "700"
+          }
+        ],
+        "h3": [
+          "1.5rem",
+          {
+            "fontWeight": "700"
+          }
+        ],
+        "h4": [
+          "1.25rem",
+          {
+            "fontWeight": "700"
+          }
+        ],
+        "body-lg": [
+          "1.25rem",
+          {
+            "fontWeight": "400"
+          }
+        ],
+        "body-md": [
+          "1rem",
+          {
+            "fontWeight": "400"
+          }
+        ],
+        "body-sm": [
+          "0.875rem",
+          {
+            "fontWeight": "400"
+          }
+        ],
+        "label": [
+          "0.875rem",
+          {
+            "fontWeight": "500"
+          }
+        ],
+        "caption": [
+          "0.75rem",
+          {
+            "fontWeight": "400"
+          }
+        ]
+      },
+      "borderRadius": {
+        "min": "2px",
+        "xs": "4px",
+        "sm": "6px",
+        "md": "8px",
+        "lg": "16px",
+        "full": "100px"
+      },
+      "spacing": {
+        "xxs": "2px",
+        "xs": "4px",
+        "sm": "8px",
+        "md": "16px",
+        "lg": "24px",
+        "xl": "32px",
+        "xxl": "48px",
+        "xxxl": "64px"
+      }
+    }
+  }
+}
